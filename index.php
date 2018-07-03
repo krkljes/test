@@ -11,6 +11,8 @@
 			<li>Tri</li>
 			<li>Cetiri</li>
 			<li>Pet</li>
+			<li>Sest</li>
+			<li>sedam</li>
 		</ul>
 	</div>
 </body>
